@@ -525,8 +525,8 @@ namespace SKT.Tnet.Controls
                     ////MIMEObjectClass mime = new MIMEObjectClass();
                     ////mime.Charset = "utf-8";
                     ////mime.OnlyHTMLBody = 1;
-                    MIMESquareLib8.MIMEObject mime = new MIMESquareLib8.MIMEObject();
-                    mime.Decode(pMIMEContent, tempPath);
+                 //   MIMESquareLib8.MIMEObject mime = new MIMESquareLib8.MIMEObject();
+                 //   mime.Decode(pMIMEContent, tempPath);
 
                     #region 이미지 처리 - 로컬 이미지만 서버에 업로드
 
